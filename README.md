@@ -1,6 +1,6 @@
 # PCO Exam. Tester for SN74HC138N 3 to 8 decoder/demultiplexer
 
-## Pinout configuration
+## Pin-out configuration
 * PE7 - Y0
 * PE8 - Y1
 * PE9 - Y2
