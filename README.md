@@ -32,7 +32,8 @@ Test the SN74HC138N 3 to 8 decoder. For all combinations of A, B, C test if the 
 * The Y0-Y7 pins are read by the read_OUTPUT function.
 * The ERROR_blink function is called if the test fails.
 * The onetime_OK_blink function is called if the test passes.
-*
+
+
 * During the testing, the BLUE LED will blink on each successful test, and the ORANGE LED will blink on each failed test.
 * If the test fails, the RED LED will blink.
 * If decoder works correctly, the GREEN LED will light up continuously.
